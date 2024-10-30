@@ -1,0 +1,23 @@
+* File .cpp:
+Trong thư mục project --> file "Main.cpp"
+* Cài đặt thư viện trong IDE Visual Studio 2022:
+- Ấn chuột phải vào project khi mở file code
+- Chuột phải vào "Project1" --> "Properties"
+- Chọn VC++ Directories:
+	+ Include Directories: chọn và hướng tới thư mục include trong thư mục SDL2 
+		( \users\..\..\Project1\SDL2\include)
+	+ Library Directories: chọn và hướng tới thư mục x64 trong thư mục SDL2 --> lib 
+		(users\ADMIN\Desktop\Study\Project1\SDL2\lib\x64)
+- Chọn C/C++:
+	+ Additional Include Directories: chọn và hướng tới thư mục include trong thư mục SDL2 
+		( \users\..\..\Project1\SDL2\include)
+- Chọn Linker: 
+	+ General --> Additional Library Directories: chọn và hướng tới thư mục x64 trong thư mục SDL2 --> lib 
+		(users\ADMIN\Desktop\Study\Project1\SDL2\lib\x64)
+	+ Input --> Additional Dependencies: Nhập các thư viện khai báo 
+		SDL2.lib
+		SDL2main.lib
+		SDL2_image.lib
+- Apply --> OK
+---------------------------------------------------------------------------------------------------------------------------------------
+Chọn Build --> Rebuild Solution --> nhấn mũi tên màu xanh để chạy chương trình

@@ -1,0 +1,18 @@
+﻿  Maincpp.cpp
+C:\Users\ADMIN\Desktop\Study\Project1\Project1\Maincpp.cpp(106,33): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Desktop\Study\Project1\Project1\Maincpp.cpp(106,33): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Desktop\Study\Project1\Project1\Maincpp.cpp(106,33): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Desktop\Study\Project1\Project1\Maincpp.cpp(106,33): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Desktop\Study\Project1\Project1\Maincpp.cpp(203,13): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Desktop\Study\Project1\Project1\Maincpp.cpp(203,13): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Desktop\Study\Project1\Project1\Maincpp.cpp(203,13): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Desktop\Study\Project1\Project1\Maincpp.cpp(203,13): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Desktop\Study\Project1\Project1\Maincpp.cpp(219,17): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Desktop\Study\Project1\Project1\Maincpp.cpp(219,17): warning C4566: character represented by universal-character-name '\u1EDD' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Desktop\Study\Project1\Project1\Maincpp.cpp(219,17): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Desktop\Study\Project1\Project1\Maincpp.cpp(219,17): warning C4566: character represented by universal-character-name '\u1EAF' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Desktop\Study\Project1\Project1\Maincpp.cpp(222,17): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Desktop\Study\Project1\Project1\Maincpp.cpp(222,17): warning C4566: character represented by universal-character-name '\u1EDD' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Desktop\Study\Project1\Project1\Maincpp.cpp(222,17): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Desktop\Study\Project1\Project1\Maincpp.cpp(222,17): warning C4566: character represented by universal-character-name '\u1EAF' cannot be represented in the current code page (1252)
+  Project1.vcxproj -> C:\Users\ADMIN\Desktop\Study\Project1\x64\Debug\Project1.exe
